@@ -1,0 +1,17 @@
+{
+  "name": "craigslistwebscrapper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "mongoose": "^6.0.12",
+    "puppeteer": "^10.4.0"
+  },
+  "description": ""
+}
